@@ -1,3 +1,5 @@
+@import 'reset';
+
 html,body{
   height:100%;
   font-size:24px;
@@ -9,6 +11,7 @@ h1, h2, h3, h4, h5, p, blockquote, table, div {
 
 h1 {
   font-size:2em;
+  color:blue !important;
 }
 
 .flex-parent {
@@ -75,7 +78,7 @@ h1 {
       height:196px;
       text-align:center;
       h1 {
-        color:orange;
+        color:#ffffff;
       }
     }
   }
