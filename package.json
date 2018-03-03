@@ -1,0 +1,15 @@
+{
+  "name": "yum.co.il",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "animejs": "^2.2.0",
+    "jquery": "^3.3.1",
+    "tilt.js": "^1.2.1",
+    "webpack": "^4.0.1"
+  },
+  "keywords": [],
+  "author": "Rami James",
+  "license": "MIT"
+}
