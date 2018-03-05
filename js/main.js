@@ -193,7 +193,7 @@ $(document).ready(function() {
       duration: 1800,
       delay: 300,
       direction: 'alternate',
-      loop: false,
+      loop: true,
       offset: '-=3600'
     })
 
